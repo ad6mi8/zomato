@@ -1,4 +1,4 @@
-Zomato Restaurants in India: In-depth Data Analysis
+#Zomato Restaurants in India: In-depth Data Analysis
 Description
 A detailed exploratory data analysis (EDA) on the Zomato India restaurant dataset.
 The project covers data cleaning, insights generation, and visual storytelling using Python libraries like Pandas, Seaborn, and Matplotlib.
